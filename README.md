@@ -6,7 +6,7 @@
 
 🙋‍♀️ 안녕하세요.
 
-React와 Vue를 활용하여 모던 웹 프론트엔드 개발이 가능한 유나영입니다.
+React와 Next.Js를 활용하여 모던 웹 프론트엔드 개발이 가능한 유나영입니다.
 
 학습하고 배운 지식은 최대한 코드에 적용하려고 하며, 사용자 관점에서 프로덕트를 발전시키고자합니다.
 
@@ -30,6 +30,7 @@ React와 Vue를 활용하여 모던 웹 프론트엔드 개발이 가능한 유�
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=foodpanda&logoColor=white" />
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
