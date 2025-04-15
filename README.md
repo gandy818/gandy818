@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgandy818&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-
 <br/><br/>
 
 🙋‍♀️ 안녕하세요.
@@ -55,7 +53,6 @@ React와 Next.Js를 활용하여 모던 웹 프론트엔드 개발이 가능한 
 <br/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zeplin-ffde55?style=flat-square&logo=Azure Pipelines&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
